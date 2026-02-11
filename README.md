@@ -72,3 +72,9 @@ Spécialité : Architecture
 - KACIMI Lynda
 - GUERBOUB Ouahiba
 - OUIDDIR Noura
+
+---
+
+## Groupe
+
+A02
